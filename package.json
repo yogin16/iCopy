@@ -1,5 +1,8 @@
 {
-  "name"    : "iCopy",
-  "version" : "0.1.0",
-  "main"    : "main.js"
+  "name": "iCopy",
+  "version": "0.1.0",
+  "main": "main.js",
+  "dependencies": {
+    "electron-json-storage": "^3.0.4"
+  }
 }
