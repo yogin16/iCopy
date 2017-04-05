@@ -22,8 +22,6 @@ function createTray() {
       protocol: 'file:',
       slashes: true
     }));
-
-    console.log('Tray clicked');
   });
 }
 
